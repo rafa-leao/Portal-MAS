@@ -1,0 +1,16 @@
+@media (min-width: 700px) {
+	
+	/*section - classes&&notices*/
+		.classes,
+		.notices {
+			text-align: center;
+		}
+			.class-item,
+			.notice-item {
+				display: inline-block;
+			}
+}
+
+/*@media (min-width: 340px) {
+
+}*/
