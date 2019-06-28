@@ -1,10 +1,12 @@
 /*index - content*/
 
 	/*general*/
+
 		.classes,
-		.notices {
+		.notices,
+		.schedule {
 			max-width: 900px;
-			margin: 0 auto;
+			margin: 0 auto 2em;
 		}
 
 	/*section - general*/
